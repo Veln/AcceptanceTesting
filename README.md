@@ -9,4 +9,4 @@ To achieve this we are going to use Behaviour-Driven Development ([BDD](https://
 - Log4j
 
 ## Framework
- 
+ This framework will support to test the web application like ecommerace.
